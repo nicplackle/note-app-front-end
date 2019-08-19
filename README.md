@@ -8,7 +8,7 @@ Use the **Note App API** you created in the previous exercise and create the fro
 
 Make an overview of the different front end frameworks on the market and sum up the pros and cons of each one.
 
-![React](https://github.com/nicplackle/note-app-front-end/tree/master/img/react_logo.png "React")
+![React](img/react_logo.png "React")
 
 ### React
 
@@ -24,7 +24,7 @@ Make an overview of the different front end frameworks on the market and sum up 
 - Regular updates are necessary to keep your apps up-to-date
 - Not actually a framework but a library of components
 
-![Angular](https://github.com/nicplackle/note-app-front-end/tree/master/img/angular_logo.png "Angular")
+![Angular](img/angular_logo.png "Angular")
 
 ### Angular
 
@@ -43,7 +43,7 @@ Make an overview of the different front end frameworks on the market and sum up 
 - Slower startup because it is heavier
 - Losing it's popularity
 
-![Vue](https://github.com/nicplackle/note-app-front-end/tree/master/img/vue_logo.png "Vue")
+![Vue](img/vue_logo.png "Vue")
 
 ### Vue.js
 
