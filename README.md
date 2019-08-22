@@ -1,66 +1,68 @@
-# Note App Front End
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## The Mission
+## Available Scripts
 
-Use the **Note App API** you created in the previous exercise and create the front end for it. For this choose between _React, Angular and Vue.js_.
+In the project directory, you can run:
 
-## Sprint 0
+### `npm start`
 
-Make an overview of the different front end frameworks on the market and sum up the pros and cons of each one.
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![React](img/react_logo.png "React")
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-### React
+### `npm test`
 
-#### Pros
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Developped by Facebook
-- Can be dropped into existing web app/view
-- Can make mobile apps with React Native
-- Most popular as it is used by lots of large companies
+### `npm run build`
 
-#### Cons
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- Regular updates are necessary to keep your apps up-to-date
-- Not actually a framework but a library of components
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-![Angular](img/angular_logo.png "Angular")
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Angular
+### `npm run eject`
 
-#### Pros
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-- Developped by Google
-- It is a framework, not just a library
-- Good for building big apps
-- Can be used to build mobile apps with Iconic or NativeScript
-- Uses HTML and CSS
-- Core features for SPA's are included
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-#### Cons
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-- Uses TypeScript, not regular Javascript. So there is a steaper learning curve
-- Slower startup because it is heavier
-- Losing it's popularity
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-![Vue](img/vue_logo.png "Vue")
+## Learn More
 
-### Vue.js
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-#### Pros
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-- Mix of React and Angular
-- It is a complete framework
-- Can be used to build mobile apps with Iconic or NativeScript
-- Uses HTML and CSS
-- Can be dropped into existing web app/view
-- Has good documentation
+### Code Splitting
 
-#### Cons
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-- Not yet used by a lot of big companies
-- Has less packages than Angular
+### Analyzing the Bundle Size
 
-#### Conclusion
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-I will start this project with React, because it is used the most often in larger companies. Another plus is that it is "just" a library and not a framework. To me it seems logical to start that way and when I grasp the concept move to a framework.
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
